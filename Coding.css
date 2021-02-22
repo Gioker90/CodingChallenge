@@ -1,0 +1,79 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: white
+}
+
+.BigBox{
+  width:1000px;
+  height:650px;
+  background-color: #3c2c2c69;
+  border-radius: 25px;
+  margin: auto;
+}
+
+#logoverde{
+  display: block;
+  width: 15%;
+  margin: auto;
+  padding-bottom: 20px
+}
+
+.Titolo{
+  width: 700px;
+  text-align: center;
+  color: #50d521;
+  margin: auto;
+  padding-bottom: 10px
+}
+
+.BandaVerde, #Tasti{
+  width: 700px;
+  background-color: #50d521;
+  color: #50d521;
+  margin: auto;
+  padding:5px 0px
+}
+
+#Tasti{
+  text-align: center;
+}
+
+button{
+  border: none;
+  background-color: white;
+  height:25px;
+}
+
+.Sezioni{
+  width: 700px;
+  margin: auto;
+}
+
+.NomeMonopattino{
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+p>span{
+  display: block;
+  height: 25px;
+  border-radius: 5px;
+}
+
+#coloured-box1{
+  width:300px;
+  background-color: #ffbf46;
+}
+
+#coloured-box2{
+  width:500px;
+  background-color: #50d521;
+}
+
+#coloured-box3{
+  width:150px;
+  background-color: #bf3030;
+}
